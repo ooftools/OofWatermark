@@ -34,6 +34,8 @@ OofWatermark
 Copy the top level `OofWatermark` directory into the `Engine/Plugins` or `Project/Plugins` directory.
 
 ## Enable the plugin
+![Plugins window](Docs/Screenshots/oofwatermark_plugins_window.png)
+
 1. Run the Unreal Editor
 2. Open the Plugins window
 3. Search for `OofWatermark`
@@ -41,6 +43,8 @@ Copy the top level `OofWatermark` directory into the `Engine/Plugins` or `Projec
 
 ## Customize the plugin
 `Project Settings -> Plugins -> OofWatermark`
+
+![OofWatermark Settings](Docs/Screenshots/oofwatermark_plugin_settings.png)
 
 1. Run the Unreal Editor
 2. Open the Project Settings
